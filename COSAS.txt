@@ -1,8 +1,0 @@
-Para el del bote ocupariamos:
-						Un sensor inductivo(para las latas) 
-					Un arduino(pss ya sabes pa que) 					
-Unos fotos transistores(para diferenciar plasticos) 
-				Leds infrarrojos
-								Un comparador de voltaje 
-Sensor capacitativo
-https://github.com/LuckyAzumi/potential-tribble

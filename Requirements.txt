@@ -1,0 +1,7 @@
+Requirements
+- Arduino UNO Rev3
+- Un sensor inductivo (para las latas)
+- Unos fotos transistores (para diferenciar plasticos) 
+- Leds infrarrojos
+- Comparador de voltaje 
+- Sensor capacitativo
