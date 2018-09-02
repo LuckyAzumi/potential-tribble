@@ -1,7 +1,37 @@
 Requirements
-- Arduino UNO Rev3
-- Un sensor inductivo (para las latas)
-- Unos fotos transistores (para diferenciar plasticos) 
-- Leds infrarrojos
-- Comparador de voltaje 
-- Sensor capacitativo
+- Arduino UNO Rev3 °0
+- Un sensor inductivo (para las latas) °1
+- Unos fotos transistores (para diferenciar plásticos)/Led receptor infrarrojo °2 
+- Leds infrarrojos °3
+- Comparador de voltaje °4 
+- Sensor capacitativo °5
+
+°0 - https://articulo.mercadolibre.com.mx/MLM-598798266-arduino-uno-r3-atmega328p-atmega16u2-cable-usb-_JM
+Price - 250
+Quantity: 1
+Shipping: Included
+Seller: https://listado.mercadolibre.com.mx/_CustId_45161552
+
+°1 - https://articulo.mercadolibre.com.mx/MLM-557555884-sensor-inductivo-proximidad-robotica-arduino-pic-6-36vcd-_JM
+Price: 84
+Quantity: 1
+Shipping: 102
+Seller:	https://listado.mercadolibre.com.mx/_CustId_64889952
+
+°2 & °3 - https://articulo.mercadolibre.com.mx/MLM-606969651-par-de-led-emisor-y-receptor-infrarrojo-940nm-5-mm-_JM
+Price: 6.50
+Quantity: 2
+Shipping: 102
+Seller: https://listado.mercadolibre.com.mx/_CustId_43562499
+
+°4 - Search = https://listado.mercadolibre.com.mx/comparador-de-voltaje#D%5BA:comparador%20de%20voltaje%5D
+Price: 
+Quantity: 
+Shipping: 
+Seller: 
+
+°5 - https://articulo.mercadolibre.com.mx/MLM-610821758-sensor-modulo-touch-ttp223b-capacitivo-_JM
+Price: 23
+Quantity: 1 
+Shipping: Free
+Seller: https://listado.mercadolibre.com.mx/_CustId_45161552
