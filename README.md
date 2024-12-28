@@ -1,3 +1,5 @@
+### Archive notice
+Focus has shifted into different projects
 # potential-tribble
 Welcome, this is the repository for our next big project for a school class about innovation and stuff, and it's name is:
 ## AJAJCompress
